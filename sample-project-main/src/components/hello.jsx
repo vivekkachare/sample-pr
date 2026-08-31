@@ -1,6 +1,6 @@
 import React from 'react'
 
-const helo = () => {
+const meloo = () => {
   return (
     <div>hello</div>
   )
